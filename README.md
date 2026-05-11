@@ -1,4 +1,4 @@
-# Federated Continual Learning Through Distillation in Pervasive Computing
+# Implementation of FedKDC: Consensus-Driven Knowledge Distillation for Personalized Federated Learning in EEG-Based Emotion Recognition using Flower.
 
 ## Group Information
 - Name: 2201CS77 VINAY PRAJAPATI, 2201CS76 VIKRAM BALAI, 2201CS17 ANSHUL CHAUHAN, 2201CS13 AMAN KUMAR, 2201CS28 GORLE GORLE
