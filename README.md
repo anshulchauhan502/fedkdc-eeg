@@ -31,4 +31,4 @@ python src/client.py
 - PyTorch
 
 ## Youtube Video
-Add your youtube workflow link here.
+[https://youtu.be/wV2oz9IJCqE]
