@@ -1,0 +1,6 @@
+experiment:
+  dataset: synthetic_seed
+  clients: 10
+  rounds: 150
+  batch_size: 32
+  optimizer: SGD
